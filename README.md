@@ -8,4 +8,6 @@ Release APKs in the releases section for download..
 <img width="720" height="1604" alt="1000101011" src="https://github.com/user-attachments/assets/295e4f10-5ce8-486f-a020-81fd2d7b19ea" />
 <br><br>
 <img width="720" height="1604" alt="1000101093" src="https://github.com/user-attachments/assets/09d33e2f-4713-4335-85b4-8f722b3f4df3" />
+<br><br>
+<img width="720" height="1604" alt="1000101095" src="https://github.com/user-attachments/assets/eb6565c9-208b-479e-82ac-4fe8eed73bc4" />
 
